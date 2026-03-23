@@ -39,7 +39,7 @@ Le notebook `Projet_PhysMat` permet de réaliser les analyses suivantes :
 - https://next-gen.materialsproject.org/materials/mp-1008556
 
 ## Installation
-Pour exécuter ce notebook, vous aurez besoin de Python 3 et des bibliothèques indiquées dans le fichier imports.ipynb. 
+Pour exécuter ce notebook, vous aurez besoin de Python 3 et des bibliothèques indiquées dans l'encardé au début de chaque fichier ipynb. 
 Vous pouvez utiliser la commande :
 ```bash
 pip install 
