@@ -15,7 +15,7 @@ Le notebook `Projet_PhysMat` permet de réaliser les analyses suivantes :
 * Calcul du diffractogramme (Cu Kα).
 
 ### 2. Symétrie (fichier symmetry.ipynb)
-* Visualisation de l'effet de trois opérations de symétrie ponctuelle distinctes
+* Visualisation de l'effet de trois opérations de symétrie ponctuelle distinctes.
 
 ### 3. Structure Électronique (fichier el_bands.ipynb)
 * Télécharger la structure de bandes électroniques.
@@ -23,12 +23,12 @@ Le notebook `Projet_PhysMat` permet de réaliser les analyses suivantes :
 * Étude de la dispersion des bandes de valence et de conduction.
 * Calcul des masses effectives.
 
-### 4. Phonons (fichier ph_bands.ipynb)
+### 4. Bandes de phonons (fichier ph_bands.ipynb)
 * Télécharger la structure de bandes de phonons.
 * Visualiser la zone de Brillouin.
 * Calcul de la vitesse du son dans différentes directions.
 
-### 5. Propriétés Thermiques (fichier ....ipynb)
+### 5. Densité de phonons (fichier ph_dens.ipynb)
 * Télécharger la densité d'états de phonons.
 * Calculer les températures de Debye ΘD et d'Einstein ΘE 
 * Modélisation de la chaleur spécifique ($C_v$) via les modèles de **Debye** et **Einstein**.
