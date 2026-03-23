@@ -15,7 +15,7 @@ Le notebook `Projet_PhysMat` permet de réaliser les analyses suivantes :
 * Calcul du diffractogramme (Cu Kα).
 
 ### 2. Symétrie (fichier symmetry.ipynb)
-* Visualisation des éléments de symétrie
+* Visualisation de l'effet de trois opérations de symétrie ponctuelle distinctes
 
 ### 3. Structure Électronique (fichier el_bands.ipynb)
 * Télécharger la structure de bandes électroniques.
