@@ -17,7 +17,7 @@ Le notebook `Projet_PhysMat` permet de réaliser les analyses suivantes :
 ### 2. Symétrie (fichier symmetry.ipynb)
 * Visualisation de l'effet de trois opérations de symétrie ponctuelle distinctes.
 
-### 3. Structure Électronique (fichier el_bands.ipynb)
+### 3. Structure électronique (fichier el_bands.ipynb)
 * Télécharger la structure de bandes électroniques.
 * Analyse de la bande interdite.
 * Étude de la dispersion des bandes de valence et de conduction.
@@ -43,5 +43,3 @@ Pour exécuter ce notebook, vous aurez besoin de Python 3 et des bibliothèques 
 Vous pouvez utiliser la commande :
 ```bash
 pip install 
-
-
