@@ -37,6 +37,7 @@ Le notebook `Projet_PhysMat` permet de réaliser les analyses suivantes :
 ## Sources
 - cours LMAPR1492
 - https://next-gen.materialsproject.org/materials/mp-1008556
+- Intelligence artificielle (ChatGPT et Gemini)
 
 ## Installation
 Pour exécuter ce notebook, vous aurez besoin de Python 3 et des bibliothèques indiquées dans l'encardé au début de chaque fichier ipynb. 
