@@ -1,4 +1,4 @@
-# Projet de Physique des Matériaux (LMAPR1492) - Étude du $\text{AlGaN}_2$
+# Projet de Physique des Matériaux (LMAPR1492) - Étude du AlGaN₂
 
 Ce README contient le travail de groupe réalisé par Antoine Julianne, Bohy Maria-Olivia, Dumont Louisa ainsi que Salée de Béthune Apolline, dans le cadre du cours **LMAPR1492**. L'objectif est l'analyse approfondie des propriétés cristallographiques, électroniques et vibrationnelles d'un matériau spécifique via un notebook Jupyter.
 
@@ -37,7 +37,7 @@ Le notebook `Projet_PhysMat` permet de réaliser les analyses suivantes :
 ## Sources
 - cours LMAPR1492
 - https://next-gen.materialsproject.org/materials/mp-1008556
-- Intelligence artificielle (ChatGPT et Gemini)
+- Intelligences artificielles (ChatGPT et Gemini)
 
 ## Installation
 Pour exécuter ce notebook, vous aurez besoin de Python 3 et des bibliothèques indiquées dans l'encardé au début de chaque fichier ipynb. 
