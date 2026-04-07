@@ -31,7 +31,7 @@ Le dépôt `Projet-FYKI` (répertorié localement sous le nom `Projet_PhysMat`) 
 ### 5. Densité de phonons (fichier ph_dens.ipynb)
 * Télécharger la densité d'états de phonons.
 * Calculer les températures de Debye ΘD et d'Einstein ΘE 
-* Modélisation de la chaleur spécifique ($C_v$) via les modèles de **Debye** et **Einstein**.
+* Modélisation de la chaleur spécifique ($C_v$) via les modèles de Debye et Einstein.
 * Comparaison des densités d'états de phonons.
 
 ## Sources
