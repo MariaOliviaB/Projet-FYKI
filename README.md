@@ -6,7 +6,7 @@ Ce README contient le travail de groupe réalisé par Antoine Julianne, Bohy Mar
 * **ID Materials Project** : [mp-1008556](https://next-gen.materialsproject.org/materials/mp-1008556)
 
 ## Fonctionnalités du Notebook
-Le notebook `Projet_PhysMat` permet de réaliser les analyses suivantes :
+Le dépôt `Projet-FYKI` (répertorié localement sous le nom `Projet_PhysMat`) permet de réaliser les analyses suivantes : 
 
 ### 1. Cristallographie (fichier lattice.ipynb)
 * Télécharger la structure du matériau attribué.
